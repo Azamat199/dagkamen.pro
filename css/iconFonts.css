@@ -24,7 +24,25 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-._icon-klick:before {
+._icon-delivery:before {
+	content: "\e948";
+ }
+ ._icon-expert:before {
+	content: "\e949";
+ }
+ ._icon-products:before {
+	content: "\e94a";
+ }
+ ._icon-rubl:before {
+	content: "\e94b";
+ }
+ ._icon-team:before {
+	content: "\e94c";
+ }
+ ._icon-confidence:before {
+	content: "\e94d";
+ }
+ ._icon-klick:before {
 	content: "\e947";
  }
 ._icon-0:before {
