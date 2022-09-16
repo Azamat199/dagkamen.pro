@@ -61,7 +61,7 @@ window.addEventListener('scroll', e => {
 	let header = document.getElementById('header').classList;
 	let active_class = "header__scrolled";
 
-	if(pageYOffset > 350) header.add(active_class)
+	if(pageYOffset > 250) header.add(active_class)
 	else header.remove(active_class)
  })
 
